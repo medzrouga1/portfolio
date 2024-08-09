@@ -1,0 +1,164 @@
+html {
+    font-size: 62.5%;
+}
+
+body {
+    background-color: black;
+
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 4rem;
+    padding: (top) (right) (bottom) (left);
+    padding: (top/bottom) (right/left);
+    padding: (top/bottom/right/left);
+}
+
+header nav ul {
+    list-style-type: none;
+    display: flex;
+    gap: 2rem;
+}
+
+header nav ul li a {
+    text-decoration: none;
+    color: white;
+    text-transform: capitalize;
+
+    font-size: 1.2rem;
+}
+
+.btn1 {
+    background-color: #27AE60;
+    color: aliceblue;
+    width: 143px;
+    height: 42px;
+    top: 586;
+    left: 130px;
+    border: 1px solid #27AE60;
+}
+
+.btn2 {
+    background-color: black;
+    color: azure;
+    width: 143px;
+    height: 42px;
+    top: 586px;
+    left: 283px;
+    gap: 0px;
+    border: 1px solid #F2F2F2;
+}
+
+
+main {
+    display: flex;
+    margin: 4rem;
+    align-items: center;
+}
+
+main .submain p {
+    color: #828282;
+    font-size: 1.8rem; /* 18px */
+    font-weight: 500;
+    line-height: 2.344rem; /* 23.44px */
+    text-align: left;
+    text-transform: capitalize;
+}
+
+.submain {
+    width: 50%;
+    align-items: center;
+}
+
+main .submain img {
+    width: 65rem;
+    height: 65rem;
+}
+
+main .submain h1 {
+    font-family: DM Sans;
+    font-size: 4.8rem;
+    font-weight: 700;
+    line-height: 6.25rem;
+    text-align: left;
+    text-transform: capitalize;
+}
+
+
+.jou {
+    width: 100%;
+    text-align: center;
+}
+
+.jou h1 {
+    font-size: 48px;
+    font-weight: 700;
+    line-height: 62.5px;
+    height: 62px;
+}
+.jou p {
+    font-size: 1.8rem;
+    font-weight: 400;
+    line-height: 2.344rem;
+
+    margin: 0 22rem;
+}
+
+.ji {
+    gap: 30px;
+}
+
+.ki {
+    gap: ;
+}
+
+#o15 { */
+    display: flex;
+    justify-content: center;
+ }
+
+#I55 { 
+    display: flex;
+    justify-content: center;
+}
+
+#I66 {
+    display: flex;
+    justify-content: center;
+}
+
+#I77 {
+    display: flex;
+    justify-content: center;
+}
+
+/* #I88 {
+    display: flex;
+    justify-content: center;
+}  */
+
+.KK {
+    display: flex;
+    justify-content: center;
+    font-family: DM Sans;
+    font-size: 48px;
+    font-weight: 700;
+    line-height: 62.5px;
+}
+
+.ll {
+    font-family: DM Sans;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 18.23px;
+    text-align: left;
+    display: flex;
+    justify-content: center;
+    top: 3048px;
+    left: 654px;
+}
